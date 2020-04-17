@@ -1,0 +1,6 @@
+﻿LIBRARY JNA
+EXPORTS 
+	get_position @1
+
+
+
