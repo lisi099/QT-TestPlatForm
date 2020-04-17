@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ARROW6A.ICO</file>
+        <file>ARROW6B.ICO</file>
+        <file>ARROW6C.ICO</file>
+        <file>ARROW6D.ICO</file>
+    </qresource>
+</RCC>
